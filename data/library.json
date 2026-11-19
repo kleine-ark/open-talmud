@@ -9508,6 +9508,102 @@
             }
           ],
           "previousAvailable": "43b",
+          "nextAvailable": "44b"
+        },
+        {
+          "id": "44b",
+          "title": "44b · Zegeningen na het eten en opvattingen over voedsel",
+          "scope": "Volledige hoofdtekst van amud 44b; de laatste zin loopt door op 45a.",
+          "status": "concept",
+          "source": "Hebreeuwse Wikisource; vaste revisie in het bronbestand.",
+          "sourceUrl": "https://he.wikisource.org/w/index.php?title=%D7%91%D7%A8%D7%9B%D7%95%D7%AA_%D7%9E%D7%93_%D7%91&oldid=2851479",
+          "passages": [
+            {
+              "id": "g1",
+              "ref": "bavli:berakhot:44b:g1",
+              "locator": "Berakhot 44b · Gemara · g1",
+              "layer": "gemara",
+              "original": "אמר רב יצחק בר אבדימי משום רבינו על הביעא ועל מיני קופרא בתחלה מברך שהכל ולבסוף בורא נפשות רבות וכו' אבל ירקא לא ור' יצחק אמר אפילו ירקא אבל מיא לא ורב פפא אמר אפילו מיא מר זוטרא עביד כרב יצחק בר אבדימי ורב שימי בר אשי עביד כר' יצחק וסימנך חד כתרי ותרי כחד א\"ר אשי אנא זמנא דכי מדכרנ' עבידנא ככולהו תנן כל שטעון ברכה לאחריו טעון ברכה לפניו ויש שטעון ברכה לפניו ואין טעון ברכה לאחריו בשלמא לרב יצחק בר אבדימי לאפוקי ירקא לר' יצחק לאפוקי מיא אלא לרב פפא לאפוקי מאי לאפוקי מצות ולבני מערבא דבתר דמסלקי תפילייהו מברכי אקב\"ו לשמור חקיו לאפוקי מאי לאפוקי ריחני א\"ר ינאי א\"ר כל שהוא כביצה ביצה טובה ממנו כי אתא רבין אמר טבא ביעתא מגולגלתא משיתא קייסי סולתא כי אתא רב דימי אמר טבא ביעתא מגולגלתא משיתא מטויתא מארבע מבושלתא כל שהוא כביצה ביצה טובה הימנו לבר מבשרא:",
+              "nl": "Rav Jitschak bar Avdimi zei namens onze meester: over een ei en soorten vlees spreekt men vooraf ‘Door wiens woord alles is ontstaan’ uit, en achteraf ‘Die vele levens schept’, enzovoort; maar niet over groente. Rabbi Jitschak zei: ook over groente, maar niet over water. Rav Pappa zei: ook over water. Mar Zoetra handelde volgens rav Jitschak bar Avdimi, en rav Sjimi bar Asji volgens rabbi Jitschak. Onthoud het zo: één als twee, en twee als één. Rav Asji zei: wanneer ik eraan denk, handel ik overeenkomstig allen. Wij hebben geleerd: alles waarvoor achteraf een zegening vereist is, vereist ook vooraf een zegening; maar er zijn dingen waarvoor vooraf een zegening vereist is en achteraf niet. Voor rav Jitschak bar Avdimi is dat begrijpelijk: groente valt erbuiten; voor rabbi Jitschak: water. Maar wat valt er volgens rav Pappa buiten? De geboden. En voor de mensen van het Westen, die na het afleggen van hun tefillien zeggen: ‘Die ons door zijn geboden heeft geheiligd en ons heeft opgedragen zijn inzettingen te bewaren’, wat valt er voor hen buiten? Geurstoffen. Rabbi Jannai zei namens Rabbi: bij alles waarvan de hoeveelheid een ei groot is, is een ei beter. Toen Ravin kwam, zei hij: een zachtgekookt ei is beter dan zes maten fijn meel. Toen rav Dimi kwam, zei hij: een zachtgekookt ei is beter dan zes geroosterde of vier hardgekookte eieren. Van alles waarvan de hoeveelheid een ei groot is, is een ei beter, behalve vlees.",
+              "lang": "arc",
+              "sourceId": "wikisource-berakhot-44b-r2851479",
+              "sourceParagraph": 1,
+              "translationStatus": "concept",
+              "notes": [
+                {
+                  "type": "begrip",
+                  "text": "Eén en twee verwijst naar het aantal naamdelen in de genoemde namen. Het Westen duidt het land Israël aan; tefillien zijn gebedsriemen."
+                }
+              ]
+            },
+            {
+              "id": "g2",
+              "ref": "bavli:berakhot:44b:g2",
+              "locator": "Berakhot 44b · Gemara · g2",
+              "layer": "gemara",
+              "original": "רע\"א אפילו אכל שלק כו':",
+              "nl": "Rabbi Akiva zegt: zelfs als hij gekookte groente heeft gegeten, enzovoort.",
+              "lang": "arc",
+              "sourceId": "wikisource-berakhot-44b-r2851479",
+              "sourceParagraph": 2,
+              "translationStatus": "concept",
+              "notes": []
+            },
+            {
+              "id": "g3",
+              "ref": "bavli:berakhot:44b:g3",
+              "locator": "Berakhot 44b · Gemara · g3",
+              "layer": "gemara",
+              "original": "ומי איכא מידי דהוה שלק מזוני א\"ר אשי בקלח של כרוב שנו ת\"ר טחול יפה לשינים וקשה לבני מעים כרישין קשין לשינים ויפין לבני מעים כל ירק חי מוריק וכל קטן מקטין וכל נפש משיב את הנפש וכל קרוב לנפש משיב את הנפש כרוב למזון ותרדין לרפואה אוי לו לבית שהלפת עוברת בתוכו:",
+              "nl": "Bestaat er dan gekookte groente die als voedzame maaltijd geldt? Rav Asji zei: dit is geleerd over een koolstronk. De rabbijnen leerden: milt is goed voor de tanden en slecht voor de ingewanden; prei is slecht voor de tanden en goed voor de ingewanden. Alle rauwe groente maakt bleek, al het kleine doet de groei afnemen, ieder levend wezen verkwikt het leven, en alles dicht bij het leven verkwikt het leven. Kool dient tot voeding en bieten tot genezing. Wee het huis waar de raap doorheen gaat!",
+              "lang": "arc",
+              "sourceId": "wikisource-berakhot-44b-r2851479",
+              "sourceParagraph": 3,
+              "translationStatus": "concept",
+              "notes": []
+            },
+            {
+              "id": "g4",
+              "ref": "bavli:berakhot:44b:g4",
+              "locator": "Berakhot 44b · Gemara · g4",
+              "layer": "gemara",
+              "original": "אמר מר טחול יפה לשינים וקשה לבני מעים מאי תקנתיה נלעסיה ונשדייה כרישין קשין לשינים ויפין לבני מעים מאי תקנתיה לשלקינהו ונבלעינהו כל ירק חי מוריק א\"ר יצחק בסעודה ראשונה של אחר הקזה וא\"ר יצחק כל האוכל ירק קודם ארבע שעות אסור לספר הימנו מאי טעמא משום ריחא וא\"ר יצחק אסור לאדם שיאכל ירק חי קודם ארבע שעות אמימר ומר זוטרא ורב אשי הוו יתבי אייתו קמייהו ירק חי קודם ארבע שעות אמימר ורב אשי אכול ומר זוטרא לא אכל אמרו ליה מאי דעתיך דא\"ר יצחק כל האוכל ירק קודם ארבע שעות אסור לספר הימנו משום ריחא והא אנן דקא אכלינן וקא משתעית בהדן אמר להו אנא כאידך דר' יצחק ס\"ל דא\"ר יצחק אסור לאדם שיאכל ירק חי קודם ארבע שעות כל קטן מקטין אמר רב חסדא אפילו גדיא בר זוזא ולא אמרן אלא דלית ביה רבעא אבל אית ביה רבעא לית לן בה כל נפש משיב נפש אמר רב פפא אפילו גילדני דבי גילי כל הקרוב לנפש משיב את הנפש אמר רב אחא בר יעקב עונקא א\"ל רבא לשמעיה כי מייתית לי אומצא דבישרא טרח ואייתי לי מהיכא דמקרב לבי ברוך כרוב למזון ותרדין לרפואה כרוב למזון אין ולרפואה לא והא תניא ששה דברים מרפאין את החולה מחליו ורפואתן רפואה ואלו הן כרוב ותרדין ומי סיסין דבש וקיבה והרת ויותרת הכבד אלא אימא כרוב אף למזון אוי לו לבית שהלפת עוברת בתוכו איני והא אמר ליה רבא לשמעיה כי חזית לפתא בשוקא לא תימא לי במאי כרכת ריפתא אמר אביי מבלי בשר ורבא אמר מבלי יין איתמר רב אמר מבלי בשר ושמואל אמר מבלי עצים ורבי יוחנן אמר מבלי יין א\"ל רבא לרב פפא סודני אנן תברינן לה בבשרא וחמרא אתון דלא נפיש לכו חמרא במאי תבריתו לה א\"ל בציבי כי הא דביתהו דרב פפא בתר דמבשלא לה תברא לה בתמנן אופי פרסייתא תנו רבנן דג קטן מליח פעמים שהוא ממית בשבעה בשבעה עשר ובעשרים ושבעה ואמרי לה בעשרים ושלשה ולא אמרן אלא במטוי ולא מטוי אבל מטוי שפיר לית לן בה ודלא מטוי שפיר לא אמרן אלא דלא שתה בתריה שכרא אבל שתה בתריה שכרא לית לן בה:",
+              "nl": "De meester zei: milt is goed voor de tanden en slecht voor de ingewanden. Wat kan men daaraan doen? Men kauwt erop en gooit het weg. Prei is slecht voor de tanden en goed voor de ingewanden. Wat kan men daaraan doen? Men kookt hem en slikt hem door. Alle rauwe groente maakt bleek. Rabbi Jitschak zei: bij de eerste maaltijd na een aderlating. Verder zei rabbi Jitschak: met iemand die vóór het vierde uur groente eet, mag men niet spreken. Waarom? Vanwege de geur. Ook zei rabbi Jitschak: een mens mag vóór het vierde uur geen rauwe groente eten. Amemar, Mar Zoetra en rav Asji zaten bijeen. Men bracht hun vóór het vierde uur rauwe groente. Amemar en rav Asji aten, maar Mar Zoetra at niet. Zij vroegen hem: wat is je reden? Dat rabbi Jitschak zei dat men vanwege de geur niet mag spreken met iemand die vóór het vierde uur groente eet? Wij eten toch ook, en je spreekt met ons! Hij antwoordde: ik volg de andere uitspraak van rabbi Jitschak, dat een mens vóór het vierde uur geen rauwe groente mag eten. Al het kleine doet de groei afnemen. Rav Chisda zei: zelfs een geitje dat een zoez waard is. Dat geldt alleen als het nog geen kwart van zijn groei heeft bereikt; heeft het dat wel, dan is er geen bezwaar. Ieder levend wezen verkwikt het leven. Rav Pappa zei: zelfs de kleine vissen tussen het riet. Alles dicht bij het leven verkwikt het leven. Rav Acha bar Jaakov zei: de hals. Rava zei tegen zijn bediende: wanneer je mij een stuk vlees brengt, doe dan moeite om het te halen van de plaats dicht bij de zegening. Kool dient tot voeding en bieten tot genezing. Kool dus wel tot voeding, maar niet tot genezing? Er is toch geleerd: zes dingen genezen een zieke van zijn ziekte en hun genezing is werkelijk genezing. Het zijn kool, bieten, water van gedroogde polei, honing, maag, baarmoeder en het aanhangsel van de lever. Zeg daarom: kool dient ook tot voeding. Wee het huis waar de raap doorheen gaat! Is dat zo? Rava zei toch tegen zijn bediende: wanneer je rapen op de markt ziet, vraag mij dan niet waarmee je mijn brood moet eten! Abajje zei: zonder vlees. Rava zei: zonder wijn. Er is overgeleverd: Rav zei: zonder vlees; Sjemoeël zei: zonder brandhout; rabbi Jochanan zei: zonder wijn. Rava zei tegen rav Pappa: bierbrouwer, wij breken de kracht ervan met vlees en wijn. Jullie hebben weinig wijn; waarmee breken jullie die kracht? Hij antwoordde: met brandhout. Zo kookte de vrouw van rav Pappa de raap en brak daarna zijn kracht met tachtig stukken Perzisch brandhout. De rabbijnen leerden: een kleine gezouten vis kan soms dodelijk zijn: op de zevende, zeventiende en zevenentwintigste dag; volgens anderen op de drieëntwintigste. Dat geldt alleen wanneer hij gedeeltelijk geroosterd is; wanneer hij goed geroosterd is, is er geen bezwaar. Ook bij onvoldoende geroosterde vis geldt dit alleen als men erna geen bier heeft gedronken; heeft men erna bier gedronken, dan is er geen bezwaar.",
+              "lang": "arc",
+              "sourceId": "wikisource-berakhot-44b-r2851479",
+              "sourceParagraph": 4,
+              "translationStatus": "concept",
+              "notes": [
+                {
+                  "type": "onzeker",
+                  "text": "De precieze identificatie van סיסין en de maat רבעא vraagt nadere filologische controle. De bron noemt zes genezende zaken maar de overgeleverde opsomming is niet eenduidig in zes onderdelen te verdelen."
+                },
+                {
+                  "type": "begrip",
+                  "text": "Dicht bij de zegening duidt op de hals, waar bij de slacht de zegening wordt uitgesproken. De voedings- en genezingsuitspraken zijn historische opvattingen uit de brontekst."
+                }
+              ]
+            },
+            {
+              "id": "g5",
+              "ref": "bavli:berakhot:44b:g5",
+              "locator": "Berakhot 44b · Gemara · g5",
+              "layer": "gemara",
+              "original": "והשותה מים לצמאו וכו' לאפוקי מאי א\"ר אידי בר אבין לאפוקי למאן",
+              "nl": "‘Wie water drinkt om zijn dorst te lessen’, enzovoort. Wat wordt hiermee uitgesloten? Rav Idi bar Avin zei: uitgesloten wordt iemand die…",
+              "lang": "arc",
+              "sourceId": "wikisource-berakhot-44b-r2851479",
+              "sourceParagraph": 5,
+              "translationStatus": "concept",
+              "notes": [
+                {
+                  "type": "tekstvorm",
+                  "text": "De zin loopt door op Berakhot 45a; de ontbrekende voortzetting is hier niet aangevuld."
+                }
+              ]
+            }
+          ],
+          "previousAvailable": "44a",
           "nextAvailable": null
         }
       ]

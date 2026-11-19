@@ -2,14 +2,14 @@
   "version": 1,
   "updatedAt": "2026-10-25",
   "corpusComplete": false,
-  "translatedSegments": 504,
+  "translatedSegments": 509,
   "independentlyReviewedSegments": 0,
   "totalSegments": null,
   "completeTractates": 0,
-  "translatedUnits": 85,
-  "totalAcquiredUnits": 85,
-  "nextRef": "bavli:berakhot:44b",
-  "remaining": "Berakhot 44b–64a (40 amudim), de overige Babylonische tractaten, de gehele Jeruzalemse Talmoed en de overige zelfstandige Misjna-teksten. Onafhankelijke inhoudelijke eindcontrole staat nog open.",
+  "translatedUnits": 86,
+  "totalAcquiredUnits": 86,
+  "nextRef": "bavli:berakhot:45a",
+  "remaining": "Berakhot 45a–64a (39 amudim), de overige Babylonische tractaten, de gehele Jeruzalemse Talmoed en de overige zelfstandige Misjna-teksten. Onafhankelijke inhoudelijke eindcontrole staat nog open.",
   "units": [
     {
       "ref": "bavli:berakhot:2a",
@@ -1289,15 +1289,30 @@
         "Brondekking, unieke verwijzingen en rechten technisch gecontroleerd."
       ],
       "independentReview": null
+    },
+    {
+      "ref": "bavli:berakhot:44b",
+      "status": "concept",
+      "sourceId": "wikisource-berakhot-44b-r2851479",
+      "segments": 5,
+      "mishnahSegments": 0,
+      "gemaraSegments": 5,
+      "sourceCoverage": "Volledige hoofdtekst van 44b in de gekozen editie; geen latere commentaren.",
+      "translationSha256": "d61dc7278ba8d1dd13ea6c82643fe487229b0cef3e23f51639403c5de4036786",
+      "checks": [
+        "Volledige bronalinea’s gekoppeld aan Nederlandse conceptvertaling.",
+        "Brondekking, unieke verwijzingen en rechten technisch gecontroleerd."
+      ],
+      "independentReview": null
     }
   ],
-  "nextLabel": "Berakhot 44b",
+  "nextLabel": "Berakhot 45a",
   "extent": {
     "manifest": "data/extent.json",
     "unit": "edition-index-amud-slot",
     "denominator": 8445,
-    "translatedWholeUnits": 85,
-    "percent": 1.0065127294256957,
+    "translatedWholeUnits": 86,
+    "percent": 1.0183540556542332,
     "onePercentThreshold": 85,
     "targetReached": true,
     "limitation": "Percentage vastgezette editiegebonden amudplaatsen van beide Talmoeds; geen woordpercentage en geen afzonderlijke Misjna-telling."
