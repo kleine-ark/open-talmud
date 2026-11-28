@@ -82,3 +82,7 @@ node --test tests/reader.test.mjs
 ~~~
 
 De controles toetsen brondekking zonder tekstverlies, checksums, inventaris en voortgang, bronvermelding en toelichting in de lezer, zoeken, fragmentlinks en mobiele paginaoverloop. Zij vervangen geen onafhankelijke beoordeling van de vertaling.
+
+## Kleine uitgaven
+
+De vertaling verschijnt in afzonderlijke delen van maximaal twintig bronzijden, binnen hetzelfde tractaat of hoofdvolume. Bekijk het [uitgavenoverzicht met EPUB-downloads](uitgaven/README.md). Volledige conceptdelen worden gebouwd met `python3 scripts/build-editions.py`; nog te vertalen delen en bronlacunes blijven zichtbaar.

@@ -1,0 +1,1058 @@
+{
+  "version": 1,
+  "maxSourceSidesPerEdition": 20,
+  "policy": "Vaste bronvolgorde; geen grens over tractaten of hoofdvolumes. Alleen volledige conceptdelen worden als EPUB aangeboden. Bronlacunes blijven open.",
+  "editions": [
+    {
+      "id": "bavli-berakhot-deel-01",
+      "title": "Babylonische Talmoed · Berakhot · deel 1 · 2a–11b",
+      "workId": "bavli-berakhot",
+      "units": [
+        "2a",
+        "2b",
+        "3a",
+        "3b",
+        "4a",
+        "4b",
+        "5a",
+        "5b",
+        "6a",
+        "6b",
+        "7a",
+        "7b",
+        "8a",
+        "8b",
+        "9a",
+        "9b",
+        "10a",
+        "10b",
+        "11a",
+        "11b"
+      ],
+      "completeUnits": [
+        "2a",
+        "2b",
+        "3a",
+        "3b",
+        "4a",
+        "4b",
+        "5a",
+        "5b",
+        "6a",
+        "6b",
+        "7a",
+        "7b",
+        "8a",
+        "8b",
+        "9a",
+        "9b",
+        "10a",
+        "10b",
+        "11a",
+        "11b"
+      ],
+      "status": "volledig-concept",
+      "independentReview": "open",
+      "epub": "bavli-berakhot-deel-01.epub"
+    },
+    {
+      "id": "bavli-berakhot-deel-02",
+      "title": "Babylonische Talmoed · Berakhot · deel 2 · 12a–21b",
+      "workId": "bavli-berakhot",
+      "units": [
+        "12a",
+        "12b",
+        "13a",
+        "13b",
+        "14a",
+        "14b",
+        "15a",
+        "15b",
+        "16a",
+        "16b",
+        "17a",
+        "17b",
+        "18a",
+        "18b",
+        "19a",
+        "19b",
+        "20a",
+        "20b",
+        "21a",
+        "21b"
+      ],
+      "completeUnits": [
+        "12a",
+        "12b",
+        "13a",
+        "13b",
+        "14a",
+        "14b",
+        "15a",
+        "15b",
+        "16a",
+        "16b",
+        "17a",
+        "17b",
+        "18a",
+        "18b",
+        "19a",
+        "19b",
+        "20a",
+        "20b",
+        "21a",
+        "21b"
+      ],
+      "status": "volledig-concept",
+      "independentReview": "open",
+      "epub": "bavli-berakhot-deel-02.epub"
+    },
+    {
+      "id": "bavli-berakhot-deel-03",
+      "title": "Babylonische Talmoed · Berakhot · deel 3 · 22a–31b",
+      "workId": "bavli-berakhot",
+      "units": [
+        "22a",
+        "22b",
+        "23a",
+        "23b",
+        "24a",
+        "24b",
+        "25a",
+        "25b",
+        "26a",
+        "26b",
+        "27a",
+        "27b",
+        "28a",
+        "28b",
+        "29a",
+        "29b",
+        "30a",
+        "30b",
+        "31a",
+        "31b"
+      ],
+      "completeUnits": [
+        "22a",
+        "22b",
+        "23a",
+        "23b",
+        "24a",
+        "24b",
+        "25a",
+        "25b",
+        "26a",
+        "26b",
+        "27a",
+        "27b",
+        "28a",
+        "28b",
+        "29a",
+        "29b",
+        "30a",
+        "30b",
+        "31a",
+        "31b"
+      ],
+      "status": "volledig-concept",
+      "independentReview": "open",
+      "epub": "bavli-berakhot-deel-03.epub"
+    },
+    {
+      "id": "bavli-berakhot-deel-04",
+      "title": "Babylonische Talmoed · Berakhot · deel 4 · 32a–41b",
+      "workId": "bavli-berakhot",
+      "units": [
+        "32a",
+        "32b",
+        "33a",
+        "33b",
+        "34a",
+        "34b",
+        "35a",
+        "35b",
+        "36a",
+        "36b",
+        "37a",
+        "37b",
+        "38a",
+        "38b",
+        "39a",
+        "39b",
+        "40a",
+        "40b",
+        "41a",
+        "41b"
+      ],
+      "completeUnits": [
+        "32a",
+        "32b",
+        "33a",
+        "33b",
+        "34a",
+        "34b",
+        "35a",
+        "35b",
+        "36a",
+        "36b",
+        "37a",
+        "37b",
+        "38a",
+        "38b",
+        "39a",
+        "39b",
+        "40a",
+        "40b",
+        "41a",
+        "41b"
+      ],
+      "status": "volledig-concept",
+      "independentReview": "open",
+      "epub": "bavli-berakhot-deel-04.epub"
+    },
+    {
+      "id": "bavli-berakhot-deel-05",
+      "title": "Babylonische Talmoed · Berakhot · deel 5 · 42a–51b",
+      "workId": "bavli-berakhot",
+      "units": [
+        "42a",
+        "42b",
+        "43a",
+        "43b",
+        "44a",
+        "44b",
+        "45a",
+        "45b",
+        "46a",
+        "46b",
+        "47a",
+        "47b",
+        "48a",
+        "48b",
+        "49a",
+        "49b",
+        "50a",
+        "50b",
+        "51a",
+        "51b"
+      ],
+      "completeUnits": [
+        "42a",
+        "42b",
+        "43a",
+        "43b",
+        "44a",
+        "44b"
+      ],
+      "status": "in-vertaling",
+      "independentReview": "open",
+      "epub": null
+    },
+    {
+      "id": "bavli-berakhot-deel-06",
+      "title": "Babylonische Talmoed · Berakhot · deel 6 · 52a–61b",
+      "workId": "bavli-berakhot",
+      "units": [
+        "52a",
+        "52b",
+        "53a",
+        "53b",
+        "54a",
+        "54b",
+        "55a",
+        "55b",
+        "56a",
+        "56b",
+        "57a",
+        "57b",
+        "58a",
+        "58b",
+        "59a",
+        "59b",
+        "60a",
+        "60b",
+        "61a",
+        "61b"
+      ],
+      "completeUnits": [],
+      "status": "gepland",
+      "independentReview": "open",
+      "epub": null
+    },
+    {
+      "id": "bavli-berakhot-deel-07",
+      "title": "Babylonische Talmoed · Berakhot · deel 7 · 62a–64a",
+      "workId": "bavli-berakhot",
+      "units": [
+        "62a",
+        "62b",
+        "63a",
+        "63b",
+        "64a"
+      ],
+      "completeUnits": [],
+      "status": "gepland",
+      "independentReview": "open",
+      "epub": null
+    }
+  ],
+  "deferred": [
+    {
+      "id": "bavli-peah",
+      "title": "Babylonische Talmoed · Peah",
+      "status": "bronregister-nodig",
+      "gemara": "niet-overgeleverd"
+    },
+    {
+      "id": "bavli-demai",
+      "title": "Babylonische Talmoed · Demai",
+      "status": "bronregister-nodig",
+      "gemara": "niet-overgeleverd"
+    },
+    {
+      "id": "bavli-kilayim",
+      "title": "Babylonische Talmoed · Kilayim",
+      "status": "bronregister-nodig",
+      "gemara": "niet-overgeleverd"
+    },
+    {
+      "id": "bavli-sheviit",
+      "title": "Babylonische Talmoed · Sheviit",
+      "status": "bronregister-nodig",
+      "gemara": "niet-overgeleverd"
+    },
+    {
+      "id": "bavli-terumot",
+      "title": "Babylonische Talmoed · Teroemot",
+      "status": "bronregister-nodig",
+      "gemara": "niet-overgeleverd"
+    },
+    {
+      "id": "bavli-maasrot",
+      "title": "Babylonische Talmoed · Maasrot",
+      "status": "bronregister-nodig",
+      "gemara": "niet-overgeleverd"
+    },
+    {
+      "id": "bavli-maaser-sheni",
+      "title": "Babylonische Talmoed · Maaser Sjeni",
+      "status": "bronregister-nodig",
+      "gemara": "niet-overgeleverd"
+    },
+    {
+      "id": "bavli-challah",
+      "title": "Babylonische Talmoed · Challa",
+      "status": "bronregister-nodig",
+      "gemara": "niet-overgeleverd"
+    },
+    {
+      "id": "bavli-orlah",
+      "title": "Babylonische Talmoed · Orla",
+      "status": "bronregister-nodig",
+      "gemara": "niet-overgeleverd"
+    },
+    {
+      "id": "bavli-bikkurim",
+      "title": "Babylonische Talmoed · Bikkoerim",
+      "status": "bronregister-nodig",
+      "gemara": "niet-overgeleverd"
+    },
+    {
+      "id": "bavli-shabbat",
+      "title": "Babylonische Talmoed · Sjabbat",
+      "status": "bronregister-nodig",
+      "gemara": "overgeleverd"
+    },
+    {
+      "id": "bavli-eruvin",
+      "title": "Babylonische Talmoed · Eroevin",
+      "status": "bronregister-nodig",
+      "gemara": "overgeleverd"
+    },
+    {
+      "id": "bavli-pesachim",
+      "title": "Babylonische Talmoed · Pesachim",
+      "status": "bronregister-nodig",
+      "gemara": "overgeleverd"
+    },
+    {
+      "id": "bavli-shekalim",
+      "title": "Babylonische Talmoed · Sjekalim",
+      "status": "bronregister-nodig",
+      "gemara": "niet-overgeleverd"
+    },
+    {
+      "id": "bavli-yoma",
+      "title": "Babylonische Talmoed · Joma",
+      "status": "bronregister-nodig",
+      "gemara": "overgeleverd"
+    },
+    {
+      "id": "bavli-sukkah",
+      "title": "Babylonische Talmoed · Soekka",
+      "status": "bronregister-nodig",
+      "gemara": "overgeleverd"
+    },
+    {
+      "id": "bavli-beitzah",
+      "title": "Babylonische Talmoed · Beitsa",
+      "status": "bronregister-nodig",
+      "gemara": "overgeleverd"
+    },
+    {
+      "id": "bavli-rosh-hashanah",
+      "title": "Babylonische Talmoed · Rosj Hasjana",
+      "status": "bronregister-nodig",
+      "gemara": "overgeleverd"
+    },
+    {
+      "id": "bavli-taanit",
+      "title": "Babylonische Talmoed · Taanit",
+      "status": "bronregister-nodig",
+      "gemara": "overgeleverd"
+    },
+    {
+      "id": "bavli-megillah",
+      "title": "Babylonische Talmoed · Megilla",
+      "status": "bronregister-nodig",
+      "gemara": "overgeleverd"
+    },
+    {
+      "id": "bavli-moed-katan",
+      "title": "Babylonische Talmoed · Moëd Katan",
+      "status": "bronregister-nodig",
+      "gemara": "overgeleverd"
+    },
+    {
+      "id": "bavli-chagigah",
+      "title": "Babylonische Talmoed · Chagiga",
+      "status": "bronregister-nodig",
+      "gemara": "overgeleverd"
+    },
+    {
+      "id": "bavli-yevamot",
+      "title": "Babylonische Talmoed · Jevamot",
+      "status": "bronregister-nodig",
+      "gemara": "overgeleverd"
+    },
+    {
+      "id": "bavli-ketubot",
+      "title": "Babylonische Talmoed · Ketoebot",
+      "status": "bronregister-nodig",
+      "gemara": "overgeleverd"
+    },
+    {
+      "id": "bavli-nedarim",
+      "title": "Babylonische Talmoed · Nedarim",
+      "status": "bronregister-nodig",
+      "gemara": "overgeleverd"
+    },
+    {
+      "id": "bavli-nazir",
+      "title": "Babylonische Talmoed · Nazir",
+      "status": "bronregister-nodig",
+      "gemara": "overgeleverd"
+    },
+    {
+      "id": "bavli-sotah",
+      "title": "Babylonische Talmoed · Sota",
+      "status": "bronregister-nodig",
+      "gemara": "overgeleverd"
+    },
+    {
+      "id": "bavli-gittin",
+      "title": "Babylonische Talmoed · Gittin",
+      "status": "bronregister-nodig",
+      "gemara": "overgeleverd"
+    },
+    {
+      "id": "bavli-kiddushin",
+      "title": "Babylonische Talmoed · Kiddoesjin",
+      "status": "bronregister-nodig",
+      "gemara": "overgeleverd"
+    },
+    {
+      "id": "bavli-bava-kamma",
+      "title": "Babylonische Talmoed · Bava Kamma",
+      "status": "bronregister-nodig",
+      "gemara": "overgeleverd"
+    },
+    {
+      "id": "bavli-bava-metzia",
+      "title": "Babylonische Talmoed · Bava Metsia",
+      "status": "bronregister-nodig",
+      "gemara": "overgeleverd"
+    },
+    {
+      "id": "bavli-bava-batra",
+      "title": "Babylonische Talmoed · Bava Batra",
+      "status": "bronregister-nodig",
+      "gemara": "overgeleverd"
+    },
+    {
+      "id": "bavli-sanhedrin",
+      "title": "Babylonische Talmoed · Sanhedrin",
+      "status": "bronregister-nodig",
+      "gemara": "overgeleverd"
+    },
+    {
+      "id": "bavli-makkot",
+      "title": "Babylonische Talmoed · Makkot",
+      "status": "bronregister-nodig",
+      "gemara": "overgeleverd"
+    },
+    {
+      "id": "bavli-shevuot",
+      "title": "Babylonische Talmoed · Sjevoeot",
+      "status": "bronregister-nodig",
+      "gemara": "overgeleverd"
+    },
+    {
+      "id": "bavli-eduyot",
+      "title": "Babylonische Talmoed · Edoejot",
+      "status": "bronregister-nodig",
+      "gemara": "niet-overgeleverd"
+    },
+    {
+      "id": "bavli-avodah-zarah",
+      "title": "Babylonische Talmoed · Avoda Zara",
+      "status": "bronregister-nodig",
+      "gemara": "overgeleverd"
+    },
+    {
+      "id": "bavli-avot",
+      "title": "Babylonische Talmoed · Avot",
+      "status": "bronregister-nodig",
+      "gemara": "niet-overgeleverd"
+    },
+    {
+      "id": "bavli-horayot",
+      "title": "Babylonische Talmoed · Horajot",
+      "status": "bronregister-nodig",
+      "gemara": "overgeleverd"
+    },
+    {
+      "id": "bavli-zevachim",
+      "title": "Babylonische Talmoed · Zevachim",
+      "status": "bronregister-nodig",
+      "gemara": "overgeleverd"
+    },
+    {
+      "id": "bavli-menachot",
+      "title": "Babylonische Talmoed · Menachot",
+      "status": "bronregister-nodig",
+      "gemara": "overgeleverd"
+    },
+    {
+      "id": "bavli-chullin",
+      "title": "Babylonische Talmoed · Choellin",
+      "status": "bronregister-nodig",
+      "gemara": "overgeleverd"
+    },
+    {
+      "id": "bavli-bekhorot",
+      "title": "Babylonische Talmoed · Bekhorot",
+      "status": "bronregister-nodig",
+      "gemara": "overgeleverd"
+    },
+    {
+      "id": "bavli-arakhin",
+      "title": "Babylonische Talmoed · Arachin",
+      "status": "bronregister-nodig",
+      "gemara": "overgeleverd"
+    },
+    {
+      "id": "bavli-temurah",
+      "title": "Babylonische Talmoed · Temoera",
+      "status": "bronregister-nodig",
+      "gemara": "overgeleverd"
+    },
+    {
+      "id": "bavli-keritot",
+      "title": "Babylonische Talmoed · Keritot",
+      "status": "bronregister-nodig",
+      "gemara": "overgeleverd"
+    },
+    {
+      "id": "bavli-meilah",
+      "title": "Babylonische Talmoed · Meïla",
+      "status": "bronregister-nodig",
+      "gemara": "overgeleverd"
+    },
+    {
+      "id": "bavli-tamid",
+      "title": "Babylonische Talmoed · Tamid",
+      "status": "bronregister-nodig",
+      "gemara": "gedeeltelijk-overgeleverd"
+    },
+    {
+      "id": "bavli-middot",
+      "title": "Babylonische Talmoed · Middot",
+      "status": "bronregister-nodig",
+      "gemara": "niet-overgeleverd"
+    },
+    {
+      "id": "bavli-kinnim",
+      "title": "Babylonische Talmoed · Kinnim",
+      "status": "bronregister-nodig",
+      "gemara": "niet-overgeleverd"
+    },
+    {
+      "id": "bavli-kelim",
+      "title": "Babylonische Talmoed · Kelim",
+      "status": "bronregister-nodig",
+      "gemara": "niet-overgeleverd"
+    },
+    {
+      "id": "bavli-oholot",
+      "title": "Babylonische Talmoed · Oholot",
+      "status": "bronregister-nodig",
+      "gemara": "niet-overgeleverd"
+    },
+    {
+      "id": "bavli-negaim",
+      "title": "Babylonische Talmoed · Negaim",
+      "status": "bronregister-nodig",
+      "gemara": "niet-overgeleverd"
+    },
+    {
+      "id": "bavli-parah",
+      "title": "Babylonische Talmoed · Para",
+      "status": "bronregister-nodig",
+      "gemara": "niet-overgeleverd"
+    },
+    {
+      "id": "bavli-tahorot",
+      "title": "Babylonische Talmoed · Tahorot",
+      "status": "bronregister-nodig",
+      "gemara": "niet-overgeleverd"
+    },
+    {
+      "id": "bavli-mikvaot",
+      "title": "Babylonische Talmoed · Mikvaot",
+      "status": "bronregister-nodig",
+      "gemara": "niet-overgeleverd"
+    },
+    {
+      "id": "bavli-niddah",
+      "title": "Babylonische Talmoed · Nidda",
+      "status": "bronregister-nodig",
+      "gemara": "overgeleverd"
+    },
+    {
+      "id": "bavli-makhshirin",
+      "title": "Babylonische Talmoed · Machsjirin",
+      "status": "bronregister-nodig",
+      "gemara": "niet-overgeleverd"
+    },
+    {
+      "id": "bavli-zavim",
+      "title": "Babylonische Talmoed · Zavim",
+      "status": "bronregister-nodig",
+      "gemara": "niet-overgeleverd"
+    },
+    {
+      "id": "bavli-tevul-yom",
+      "title": "Babylonische Talmoed · Tevoel Jom",
+      "status": "bronregister-nodig",
+      "gemara": "niet-overgeleverd"
+    },
+    {
+      "id": "bavli-yadayim",
+      "title": "Babylonische Talmoed · Jadajim",
+      "status": "bronregister-nodig",
+      "gemara": "niet-overgeleverd"
+    },
+    {
+      "id": "bavli-uktzin",
+      "title": "Babylonische Talmoed · Oektsin",
+      "status": "bronregister-nodig",
+      "gemara": "niet-overgeleverd"
+    },
+    {
+      "id": "yerushalmi-berakhot",
+      "title": "Jeruzalemse Talmoed · Berakhot",
+      "status": "bronregister-nodig",
+      "gemara": "overgeleverd"
+    },
+    {
+      "id": "yerushalmi-peah",
+      "title": "Jeruzalemse Talmoed · Peah",
+      "status": "bronregister-nodig",
+      "gemara": "overgeleverd"
+    },
+    {
+      "id": "yerushalmi-demai",
+      "title": "Jeruzalemse Talmoed · Demai",
+      "status": "bronregister-nodig",
+      "gemara": "overgeleverd"
+    },
+    {
+      "id": "yerushalmi-kilayim",
+      "title": "Jeruzalemse Talmoed · Kilayim",
+      "status": "bronregister-nodig",
+      "gemara": "overgeleverd"
+    },
+    {
+      "id": "yerushalmi-sheviit",
+      "title": "Jeruzalemse Talmoed · Sheviit",
+      "status": "bronregister-nodig",
+      "gemara": "overgeleverd"
+    },
+    {
+      "id": "yerushalmi-terumot",
+      "title": "Jeruzalemse Talmoed · Teroemot",
+      "status": "bronregister-nodig",
+      "gemara": "overgeleverd"
+    },
+    {
+      "id": "yerushalmi-maasrot",
+      "title": "Jeruzalemse Talmoed · Maasrot",
+      "status": "bronregister-nodig",
+      "gemara": "overgeleverd"
+    },
+    {
+      "id": "yerushalmi-maaser-sheni",
+      "title": "Jeruzalemse Talmoed · Maaser Sjeni",
+      "status": "bronregister-nodig",
+      "gemara": "overgeleverd"
+    },
+    {
+      "id": "yerushalmi-challah",
+      "title": "Jeruzalemse Talmoed · Challa",
+      "status": "bronregister-nodig",
+      "gemara": "overgeleverd"
+    },
+    {
+      "id": "yerushalmi-orlah",
+      "title": "Jeruzalemse Talmoed · Orla",
+      "status": "bronregister-nodig",
+      "gemara": "overgeleverd"
+    },
+    {
+      "id": "yerushalmi-bikkurim",
+      "title": "Jeruzalemse Talmoed · Bikkoerim",
+      "status": "bronregister-nodig",
+      "gemara": "overgeleverd"
+    },
+    {
+      "id": "yerushalmi-shabbat",
+      "title": "Jeruzalemse Talmoed · Sjabbat",
+      "status": "bronregister-nodig",
+      "gemara": "overgeleverd"
+    },
+    {
+      "id": "yerushalmi-eruvin",
+      "title": "Jeruzalemse Talmoed · Eroevin",
+      "status": "bronregister-nodig",
+      "gemara": "overgeleverd"
+    },
+    {
+      "id": "yerushalmi-pesachim",
+      "title": "Jeruzalemse Talmoed · Pesachim",
+      "status": "bronregister-nodig",
+      "gemara": "overgeleverd"
+    },
+    {
+      "id": "yerushalmi-shekalim",
+      "title": "Jeruzalemse Talmoed · Sjekalim",
+      "status": "bronregister-nodig",
+      "gemara": "overgeleverd"
+    },
+    {
+      "id": "yerushalmi-yoma",
+      "title": "Jeruzalemse Talmoed · Joma",
+      "status": "bronregister-nodig",
+      "gemara": "overgeleverd"
+    },
+    {
+      "id": "yerushalmi-sukkah",
+      "title": "Jeruzalemse Talmoed · Soekka",
+      "status": "bronregister-nodig",
+      "gemara": "overgeleverd"
+    },
+    {
+      "id": "yerushalmi-beitzah",
+      "title": "Jeruzalemse Talmoed · Beitsa",
+      "status": "bronregister-nodig",
+      "gemara": "overgeleverd"
+    },
+    {
+      "id": "yerushalmi-rosh-hashanah",
+      "title": "Jeruzalemse Talmoed · Rosj Hasjana",
+      "status": "bronregister-nodig",
+      "gemara": "overgeleverd"
+    },
+    {
+      "id": "yerushalmi-taanit",
+      "title": "Jeruzalemse Talmoed · Taanit",
+      "status": "bronregister-nodig",
+      "gemara": "overgeleverd"
+    },
+    {
+      "id": "yerushalmi-megillah",
+      "title": "Jeruzalemse Talmoed · Megilla",
+      "status": "bronregister-nodig",
+      "gemara": "overgeleverd"
+    },
+    {
+      "id": "yerushalmi-moed-katan",
+      "title": "Jeruzalemse Talmoed · Moëd Katan",
+      "status": "bronregister-nodig",
+      "gemara": "overgeleverd"
+    },
+    {
+      "id": "yerushalmi-chagigah",
+      "title": "Jeruzalemse Talmoed · Chagiga",
+      "status": "bronregister-nodig",
+      "gemara": "overgeleverd"
+    },
+    {
+      "id": "yerushalmi-yevamot",
+      "title": "Jeruzalemse Talmoed · Jevamot",
+      "status": "bronregister-nodig",
+      "gemara": "overgeleverd"
+    },
+    {
+      "id": "yerushalmi-ketubot",
+      "title": "Jeruzalemse Talmoed · Ketoebot",
+      "status": "bronregister-nodig",
+      "gemara": "overgeleverd"
+    },
+    {
+      "id": "yerushalmi-nedarim",
+      "title": "Jeruzalemse Talmoed · Nedarim",
+      "status": "bronregister-nodig",
+      "gemara": "overgeleverd"
+    },
+    {
+      "id": "yerushalmi-nazir",
+      "title": "Jeruzalemse Talmoed · Nazir",
+      "status": "bronregister-nodig",
+      "gemara": "overgeleverd"
+    },
+    {
+      "id": "yerushalmi-sotah",
+      "title": "Jeruzalemse Talmoed · Sota",
+      "status": "bronregister-nodig",
+      "gemara": "overgeleverd"
+    },
+    {
+      "id": "yerushalmi-gittin",
+      "title": "Jeruzalemse Talmoed · Gittin",
+      "status": "bronregister-nodig",
+      "gemara": "overgeleverd"
+    },
+    {
+      "id": "yerushalmi-kiddushin",
+      "title": "Jeruzalemse Talmoed · Kiddoesjin",
+      "status": "bronregister-nodig",
+      "gemara": "overgeleverd"
+    },
+    {
+      "id": "yerushalmi-bava-kamma",
+      "title": "Jeruzalemse Talmoed · Bava Kamma",
+      "status": "bronregister-nodig",
+      "gemara": "overgeleverd"
+    },
+    {
+      "id": "yerushalmi-bava-metzia",
+      "title": "Jeruzalemse Talmoed · Bava Metsia",
+      "status": "bronregister-nodig",
+      "gemara": "overgeleverd"
+    },
+    {
+      "id": "yerushalmi-bava-batra",
+      "title": "Jeruzalemse Talmoed · Bava Batra",
+      "status": "bronregister-nodig",
+      "gemara": "overgeleverd"
+    },
+    {
+      "id": "yerushalmi-sanhedrin",
+      "title": "Jeruzalemse Talmoed · Sanhedrin",
+      "status": "bronregister-nodig",
+      "gemara": "overgeleverd"
+    },
+    {
+      "id": "yerushalmi-makkot",
+      "title": "Jeruzalemse Talmoed · Makkot",
+      "status": "bronregister-nodig",
+      "gemara": "gedeeltelijk-overgeleverd"
+    },
+    {
+      "id": "yerushalmi-shevuot",
+      "title": "Jeruzalemse Talmoed · Sjevoeot",
+      "status": "bronregister-nodig",
+      "gemara": "overgeleverd"
+    },
+    {
+      "id": "yerushalmi-eduyot",
+      "title": "Jeruzalemse Talmoed · Edoejot",
+      "status": "bronregister-nodig",
+      "gemara": "niet-overgeleverd"
+    },
+    {
+      "id": "yerushalmi-avodah-zarah",
+      "title": "Jeruzalemse Talmoed · Avoda Zara",
+      "status": "bronregister-nodig",
+      "gemara": "overgeleverd"
+    },
+    {
+      "id": "yerushalmi-avot",
+      "title": "Jeruzalemse Talmoed · Avot",
+      "status": "bronregister-nodig",
+      "gemara": "niet-overgeleverd"
+    },
+    {
+      "id": "yerushalmi-horayot",
+      "title": "Jeruzalemse Talmoed · Horajot",
+      "status": "bronregister-nodig",
+      "gemara": "overgeleverd"
+    },
+    {
+      "id": "yerushalmi-zevachim",
+      "title": "Jeruzalemse Talmoed · Zevachim",
+      "status": "bronregister-nodig",
+      "gemara": "niet-overgeleverd"
+    },
+    {
+      "id": "yerushalmi-menachot",
+      "title": "Jeruzalemse Talmoed · Menachot",
+      "status": "bronregister-nodig",
+      "gemara": "niet-overgeleverd"
+    },
+    {
+      "id": "yerushalmi-chullin",
+      "title": "Jeruzalemse Talmoed · Choellin",
+      "status": "bronregister-nodig",
+      "gemara": "niet-overgeleverd"
+    },
+    {
+      "id": "yerushalmi-bekhorot",
+      "title": "Jeruzalemse Talmoed · Bekhorot",
+      "status": "bronregister-nodig",
+      "gemara": "niet-overgeleverd"
+    },
+    {
+      "id": "yerushalmi-arakhin",
+      "title": "Jeruzalemse Talmoed · Arachin",
+      "status": "bronregister-nodig",
+      "gemara": "niet-overgeleverd"
+    },
+    {
+      "id": "yerushalmi-temurah",
+      "title": "Jeruzalemse Talmoed · Temoera",
+      "status": "bronregister-nodig",
+      "gemara": "niet-overgeleverd"
+    },
+    {
+      "id": "yerushalmi-keritot",
+      "title": "Jeruzalemse Talmoed · Keritot",
+      "status": "bronregister-nodig",
+      "gemara": "niet-overgeleverd"
+    },
+    {
+      "id": "yerushalmi-meilah",
+      "title": "Jeruzalemse Talmoed · Meïla",
+      "status": "bronregister-nodig",
+      "gemara": "niet-overgeleverd"
+    },
+    {
+      "id": "yerushalmi-tamid",
+      "title": "Jeruzalemse Talmoed · Tamid",
+      "status": "bronregister-nodig",
+      "gemara": "niet-overgeleverd"
+    },
+    {
+      "id": "yerushalmi-middot",
+      "title": "Jeruzalemse Talmoed · Middot",
+      "status": "bronregister-nodig",
+      "gemara": "niet-overgeleverd"
+    },
+    {
+      "id": "yerushalmi-kinnim",
+      "title": "Jeruzalemse Talmoed · Kinnim",
+      "status": "bronregister-nodig",
+      "gemara": "niet-overgeleverd"
+    },
+    {
+      "id": "yerushalmi-kelim",
+      "title": "Jeruzalemse Talmoed · Kelim",
+      "status": "bronregister-nodig",
+      "gemara": "niet-overgeleverd"
+    },
+    {
+      "id": "yerushalmi-oholot",
+      "title": "Jeruzalemse Talmoed · Oholot",
+      "status": "bronregister-nodig",
+      "gemara": "niet-overgeleverd"
+    },
+    {
+      "id": "yerushalmi-negaim",
+      "title": "Jeruzalemse Talmoed · Negaim",
+      "status": "bronregister-nodig",
+      "gemara": "niet-overgeleverd"
+    },
+    {
+      "id": "yerushalmi-parah",
+      "title": "Jeruzalemse Talmoed · Para",
+      "status": "bronregister-nodig",
+      "gemara": "niet-overgeleverd"
+    },
+    {
+      "id": "yerushalmi-tahorot",
+      "title": "Jeruzalemse Talmoed · Tahorot",
+      "status": "bronregister-nodig",
+      "gemara": "niet-overgeleverd"
+    },
+    {
+      "id": "yerushalmi-mikvaot",
+      "title": "Jeruzalemse Talmoed · Mikvaot",
+      "status": "bronregister-nodig",
+      "gemara": "niet-overgeleverd"
+    },
+    {
+      "id": "yerushalmi-niddah",
+      "title": "Jeruzalemse Talmoed · Nidda",
+      "status": "bronregister-nodig",
+      "gemara": "gedeeltelijk-overgeleverd"
+    },
+    {
+      "id": "yerushalmi-makhshirin",
+      "title": "Jeruzalemse Talmoed · Machsjirin",
+      "status": "bronregister-nodig",
+      "gemara": "niet-overgeleverd"
+    },
+    {
+      "id": "yerushalmi-zavim",
+      "title": "Jeruzalemse Talmoed · Zavim",
+      "status": "bronregister-nodig",
+      "gemara": "niet-overgeleverd"
+    },
+    {
+      "id": "yerushalmi-tevul-yom",
+      "title": "Jeruzalemse Talmoed · Tevoel Jom",
+      "status": "bronregister-nodig",
+      "gemara": "niet-overgeleverd"
+    },
+    {
+      "id": "yerushalmi-yadayim",
+      "title": "Jeruzalemse Talmoed · Jadajim",
+      "status": "bronregister-nodig",
+      "gemara": "niet-overgeleverd"
+    },
+    {
+      "id": "yerushalmi-uktzin",
+      "title": "Jeruzalemse Talmoed · Oektsin",
+      "status": "bronregister-nodig",
+      "gemara": "niet-overgeleverd"
+    },
+    {
+      "id": "mishnah",
+      "title": "Zelfstandige Misjna",
+      "status": "hoofdstukindeling-nodig",
+      "note": "Ingebedde Misjna niet dubbel tellen."
+    }
+  ]
+}
